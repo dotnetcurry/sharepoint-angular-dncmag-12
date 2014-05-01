@@ -7,5 +7,5 @@ Developing SharePoint 2013 Web Parts using AngularJS and KnockoutJS. This code i
 * Author: [Praveen Dabade](http://www.dotnetcurry.com/Author.aspx?AuthorName=Pravinkumar Dabade)
 * Version: 0.0.1
 * Website: [DNC Magazine](http://www.dotnetcurry.com/magazine)
-* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/aspnet-identity-dncmag-12)
+* GitHub: [DNC Magazine on Github](https://github.com/dotnetcurry/sharepoint-angular-dncmag-12)
 
