@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5fca0f93-7484-4fed-8565-b4bfdb341f55" solutionId="5fca0f93-7484-4fed-8565-b4bfdb341f55" resetWebServer="false" sharePointProductVersion="15.0" name="AngularJSWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4b33ad41-8311-4a40-a717-a3a2ee588341" />
+  </features>
+</package>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ba8f6fb9-e11b-460c-babf-cc64771ebf3c" solutionId="ba8f6fb9-e11b-460c-babf-cc64771ebf3c" resetWebServer="false" sharePointProductVersion="15.0" name="KnockoutBreezeWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d8d416a9-ce1c-46f1-b935-30c41389f49d" />
+  </features>
+</package>
