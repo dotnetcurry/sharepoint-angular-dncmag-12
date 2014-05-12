@@ -1,0 +1,9 @@
+Note about JavaScript Files - 
+
+1) SharePointListModule.js
+
+2) CustomerController.js
+
+Please add both the files into Scripts folder as instructed in the article. The path is as below - 
+
+C:\Program Files\Common Files\microsoft shared\Web Server Extensions\15\TEMPLATE\LAYOUTS\Scripts

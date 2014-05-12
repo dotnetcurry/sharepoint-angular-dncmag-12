@@ -1,0 +1,1 @@
+var myAngApp = angular.module('SharePointAngApp', []);
